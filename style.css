@@ -1,0 +1,23 @@
+/*========== TABLE ==========*/
+
+table{
+    font-family: cursive;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: groove;
+    border-color: #2695A6;
+    background-color: azure;
+    margin: auto;
+}
+
+th{
+    font-weight: 900;
+    background-color: #2695A6;
+    color: #ffffff;
+}
+
+/*========== FOOTER ==========*/
+
+.footer p{
+    text-align: center;
+}
